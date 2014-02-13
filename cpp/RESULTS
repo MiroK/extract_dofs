@@ -1,0 +1,157 @@
+rotation
+Dofs differ by set of measure 0
+width 0, n_cells 11250 cells, time 0.0185003 vs 0.019326 in dofs of which
+		 first search 0.018259 vs 0.019131
+		 band build 3.07511e-07 vs 6.02857e-07
+		 connectivity 6.94918e-07 vs 7.07863e-07
+		 extract dofs 0.000180329 vs 0.000149899
+Dofs differ by set of measure 0
+width 2, n_cells 11250 cells, time 0.0188077 vs 0.019823 in dofs of which
+		 first search 0.0184093 vs 0.0190552
+		 band build 6.40919e-05 vs 0.000472137
+		 connectivity 8.14046e-07 vs 6.06477e-07
+		 extract dofs 0.000256996 vs 0.00024631
+Dofs differ by set of measure 0
+width 4, n_cells 11250 cells, time 0.0189318 vs 0.020486 in dofs of which
+		 first search 0.0183822 vs 0.0191957
+		 band build 0.000132938 vs 0.000889054
+		 connectivity 4.90539e-07 vs 5.20039e-07
+		 extract dofs 0.000349782 vs 0.000351022
+Dofs differ by set of measure 0
+width 6, n_cells 11250 cells, time 0.0191369 vs 0.020881 in dofs of which
+		 first search 0.0183953 vs 0.0190343
+		 band build 0.000214411 vs 0.00134596
+		 connectivity 7.16955e-07 vs 6.03928e-07
+		 extract dofs 0.000424434 vs 0.000448844
+Dofs differ by set of measure 0
+width 0, n_cells 31250 cells, time 0.0536384 vs 0.055571 in dofs of which
+		 first search 0.053079 vs 0.0550988
+		 band build 2.16695e-07 vs 5.17047e-07
+		 connectivity 8.98296e-07 vs 1.00222e-06
+		 extract dofs 0.000471326 vs 0.000412205
+Dofs differ by set of measure 0
+width 2, n_cells 31250 cells, time 0.0541517 vs 0.057260 in dofs of which
+		 first search 0.0532442 vs 0.0552986
+		 band build 0.000170796 vs 0.00129725
+		 connectivity 1.04059e-06 vs 1.02537e-06
+		 extract dofs 0.000637591 vs 0.000600489
+Dofs differ by set of measure 0
+width 4, n_cells 31250 cells, time 0.0545709 vs 0.058055 in dofs of which
+		 first search 0.0533444 vs 0.0551265
+		 band build 0.000348789 vs 0.002086
+		 connectivity 1.01408e-06 vs 7.78353e-07
+		 extract dofs 0.000778014 vs 0.000775499
+Dofs differ by set of measure 0
+width 6, n_cells 31250 cells, time 0.0544106 vs 0.058783 in dofs of which
+		 first search 0.0528473 vs 0.054889
+		 band build 0.000543701 vs 0.00289035
+		 connectivity 1.08463e-06 vs 8.80158e-07
+		 extract dofs 0.000917209 vs 0.000940799
+Dofs differ by set of measure 0
+width 0, n_cells 80000 cells, time 0.141038 vs 0.146948 in dofs of which
+		 first search 0.139693 vs 0.14583
+		 band build 3.06603e-07 vs 6.4593e-07
+		 connectivity 8.05478e-07 vs 9.72685e-07
+		 extract dofs 0.00121248 vs 0.00105627
+Dofs differ by set of measure 0
+width 2, n_cells 80000 cells, time 0.142173 vs 0.150897 in dofs of which
+		 first search 0.140126 vs 0.146125
+		 band build 0.000416899 vs 0.00334423
+		 connectivity 9.68704e-07 vs 7.8585e-07
+		 extract dofs 0.00149221 vs 0.00135783
+Dofs differ by set of measure 0
+width 4, n_cells 80000 cells, time 0.142925 vs 0.153015 in dofs of which
+		 first search 0.140189 vs 0.146531
+		 band build 0.000843277 vs 0.00475801
+		 connectivity 9.75037e-07 vs 7.06874e-07
+		 extract dofs 0.00173939 vs 0.00165238
+Dofs differ by set of measure 0
+width 6, n_cells 80000 cells, time 0.1443 vs 0.155164 in dofs of which
+		 first search 0.140831 vs 0.146953
+		 band build 0.00132501 vs 0.00621121
+		 connectivity 1.01107e-06 vs 1.10805e-06
+		 extract dofs 0.00198558 vs 0.00192628
+translation
+Dofs differ by set of measure 0
+width 0, n_cells 11250 cells, time 0.0186313 vs 0.019519 in dofs of which
+		 first search 0.0184042 vs 0.0193246
+		 band build 2.44344e-07 vs 4.32832e-07
+		 connectivity 5.81658e-07 vs 9.54128e-07
+		 extract dofs 0.000167611 vs 0.000146805
+Dofs differ by set of measure 0
+width 2, n_cells 11250 cells, time 0.0188443 vs 0.020014 in dofs of which
+		 first search 0.0184429 vs 0.019252
+		 band build 6.30309e-05 vs 0.000470193
+		 connectivity 8.93208e-07 vs 7.93918e-07
+		 extract dofs 0.000260322 vs 0.000245031
+Dofs differ by set of measure 0
+width 4, n_cells 11250 cells, time 0.0189893 vs 0.020515 in dofs of which
+		 first search 0.0184443 vs 0.0192338
+		 band build 0.000134285 vs 0.000889466
+		 connectivity 7.13614e-07 vs 7.95373e-07
+		 extract dofs 0.000341293 vs 0.000344
+Dofs differ by set of measure 0
+width 6, n_cells 11250 cells, time 0.0190579 vs 0.021243 in dofs of which
+		 first search 0.0183164 vs 0.0194008
+		 band build 0.000210402 vs 0.00134412
+		 connectivity 8.91706e-07 vs 7.3316e-07
+		 extract dofs 0.000429207 vs 0.000447282
+Dofs differ by set of measure 0
+width 0, n_cells 31250 cells, time 0.0540131 vs 0.055764 in dofs of which
+		 first search 0.053458 vs 0.0552937
+		 band build 2.32609e-07 vs 6.01704e-07
+		 connectivity 9.87132e-07 vs 9.12126e-07
+		 extract dofs 0.000464891 vs 0.000408537
+Dofs differ by set of measure 0
+width 2, n_cells 31250 cells, time 0.0541656 vs 0.057509 in dofs of which
+		 first search 0.0532775 vs 0.0555747
+		 band build 0.000173315 vs 0.00128597
+		 connectivity 9.88238e-07 vs 1.01671e-06
+		 extract dofs 0.000619488 vs 0.000585082
+Dofs differ by set of measure 0
+width 4, n_cells 31250 cells, time 0.0542349 vs 0.057936 in dofs of which
+		 first search 0.0530266 vs 0.0550453
+		 band build 0.000349859 vs 0.00204377
+		 connectivity 9.94711e-07 vs 9.1712e-07
+		 extract dofs 0.000763702 vs 0.000782186
+Dofs differ by set of measure 0
+width 6, n_cells 31250 cells, time 0.0545897 vs 0.059063 in dofs of which
+		 first search 0.0530353 vs 0.0551896
+		 band build 0.000546592 vs 0.00287228
+		 connectivity 9.22685e-07 vs 9.8194e-07
+		 extract dofs 0.000903391 vs 0.000932104
+Dofs differ by set of measure 0
+width 0, n_cells 80000 cells, time 0.141502 vs 0.147741 in dofs of which
+		 first search 0.140184 vs 0.146637
+		 band build 4.34252e-07 vs 6.97502e-07
+		 connectivity 7.8422e-07 vs 7.31077e-07
+		 extract dofs 0.00118849 vs 0.00104211
+Dofs differ by set of measure 0
+width 2, n_cells 80000 cells, time 0.142298 vs 0.151341 in dofs of which
+		 first search 0.140242 vs 0.146581
+		 band build 0.000418111 vs 0.0033334
+		 connectivity 1.02253e-06 vs 8.06432e-07
+		 extract dofs 0.0014972 vs 0.00135399
+Dofs differ by set of measure 0
+width 4, n_cells 80000 cells, time 0.145908 vs 0.153432 in dofs of which
+		 first search 0.14318 vs 0.147008
+		 band build 0.000850608 vs 0.0047144
+		 connectivity 1.11684e-06 vs 9.28994e-07
+		 extract dofs 0.00172884 vs 0.00163841
+Dofs differ by set of measure 0
+width 6, n_cells 80000 cells, time 0.143778 vs 0.154580 in dofs of which
+		 first search 0.14033 vs 0.146422
+		 band build 0.00130492 vs 0.00616138
+		 connectivity 8.77411e-07 vs 8.15326e-07
+		 extract dofs 0.00198802 vs 0.00192543
+
+real	0m39.594s
+user	0m39.310s
+sys	0m0.220s
+
+# the effect of bandwith is small
+# the bottlenect is first seach which includes eval
+# index method is slower than mesh_f method (in contrast to python)
+# in cpp there is not necessary to include something like
+# cells(mesh, mesh_f, value) because there is not gain in it
+

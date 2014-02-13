@@ -1,0 +1,153 @@
+rotation
+Dofs differ on set with measure set([])
+width 0, n_cells 11250 cells, time 0.363336 vs 0.243076 in dofs of which
+		 first search 0.247519 vs 0.241462
+		 band build 2.59741e-06 vs 3.01057e-06
+		 connectivity 3.19529e-06 vs 7.5662e-06
+		 extract dofs 0.114957 vs 0.00101112
+Dofs differ on set with measure set([])
+width 2, n_cells 11250 cells, time 0.479043 vs 0.248594 in dofs of which
+		 first search 0.243855 vs 0.240108
+		 band build 0.117678 vs 0.006309
+		 connectivity 3.02606e-06 vs 7.37672e-06
+		 extract dofs 0.116553 vs 0.00146254
+Dofs differ on set with measure set([])
+width 4, n_cells 11250 cells, time 0.615136 vs 0.265254 in dofs of which
+		 first search 0.251059 vs 0.251861
+		 band build 0.243884 vs 0.0105192
+		 connectivity 3.20985e-06 vs 8.1939e-06
+		 extract dofs 0.119128 vs 0.00194807
+Dofs differ on set with measure set([])
+width 6, n_cells 11250 cells, time 0.731053 vs 0.261164 in dofs of which
+		 first search 0.248592 vs 0.245244
+		 band build 0.363497 vs 0.0126761
+		 connectivity 2.97533e-06 vs 7.1784e-06
+		 extract dofs 0.117876 vs 0.00231797
+Dofs differ on set with measure set([])
+width 0, n_cells 31250 cells, time 1.00407 vs 0.677453 in dofs of which
+		 first search 0.684686 vs 0.673976
+		 band build 2.20622e-06 vs 3.20789e-06
+		 connectivity 2.9849e-06 vs 7.80729e-06
+		 extract dofs 0.318367 vs 0.00236831
+Dofs differ on set with measure set([])
+width 2, n_cells 31250 cells, time 1.33508 vs 0.695165 in dofs of which
+		 first search 0.685471 vs 0.673366
+		 band build 0.32842 vs 0.0173487
+		 connectivity 2.81865e-06 vs 7.43655e-06
+		 extract dofs 0.319968 vs 0.00315002
+Dofs differ on set with measure set([])
+width 4, n_cells 31250 cells, time 1.69076 vs 0.713162 in dofs of which
+		 first search 0.701093 vs 0.683435
+		 band build 0.664948 vs 0.0242339
+		 connectivity 3.11163e-06 vs 8.57462e-06
+		 extract dofs 0.323235 vs 0.00393408
+Dofs differ on set with measure set([])
+width 6, n_cells 31250 cells, time 2.03745 vs 0.726489 in dofs of which
+		 first search 0.704522 vs 0.691954
+		 band build 1.00603 vs 0.0281699
+		 connectivity 3.01892e-06 vs 7.70738e-06
+		 extract dofs 0.325077 vs 0.00464781
+Dofs differ on set with measure set([])
+width 0, n_cells 80000 cells, time 2.60418 vs 1.768407 in dofs of which
+		 first search 1.77685 vs 1.76076
+		 band build 2.57894e-06 vs 3.8091e-06
+		 connectivity 3.09671e-06 vs 9.00857e-06
+		 extract dofs 0.825379 vs 0.00555641
+Dofs differ on set with measure set([])
+width 2, n_cells 80000 cells, time 3.45722 vs 1.803112 in dofs of which
+		 first search 1.78312 vs 1.74903
+		 band build 0.845822 vs 0.0444627
+		 connectivity 3.37957e-06 vs 1.01264e-05
+		 extract dofs 0.825714 vs 0.00686437
+Dofs differ on set with measure set([])
+width 4, n_cells 80000 cells, time 4.32732 vs 1.803231 in dofs of which
+		 first search 1.78541 vs 1.73722
+		 band build 1.71655 vs 0.054786
+		 connectivity 3.41216e-06 vs 1.02986e-05
+		 extract dofs 0.822792 vs 0.00805891
+Dofs differ on set with measure set([])
+width 6, n_cells 80000 cells, time 5.20371 vs 1.811988 in dofs of which
+		 first search 1.80348 vs 1.73737
+		 band build 2.57007 vs 0.0617161
+		 connectivity 3.17418e-06 vs 9.58929e-06
+		 extract dofs 0.826998 vs 0.00952381
+translation
+Dofs differ on set with measure set([])
+width 0, n_cells 11250 cells, time 0.361178 vs 0.242922 in dofs of which
+		 first search 0.246282 vs 0.241392
+		 band build 2.47315e-06 vs 2.95913e-06
+		 connectivity 2.96573e-06 vs 7.35712e-06
+		 extract dofs 0.114109 vs 0.000984708
+Dofs differ on set with measure set([])
+width 2, n_cells 11250 cells, time 0.47772 vs 0.249049 in dofs of which
+		 first search 0.244251 vs 0.240714
+		 band build 0.117307 vs 0.00623343
+		 connectivity 2.6084e-06 vs 6.95096e-06
+		 extract dofs 0.115272 vs 0.00146004
+Dofs differ on set with measure set([])
+width 4, n_cells 11250 cells, time 0.599193 vs 0.253097 in dofs of which
+		 first search 0.243573 vs 0.240228
+		 band build 0.23852 vs 0.0102053
+		 connectivity 2.91767e-06 vs 7.28338e-06
+		 extract dofs 0.116118 vs 0.00189168
+Dofs differ on set with measure set([])
+width 6, n_cells 11250 cells, time 0.726294 vs 0.258910 in dofs of which
+		 first search 0.244883 vs 0.243007
+		 band build 0.362885 vs 0.0126862
+		 connectivity 2.88311e-06 vs 6.70538e-06
+		 extract dofs 0.117438 vs 0.00233881
+Dofs differ on set with measure set([])
+width 0, n_cells 31250 cells, time 1.00281 vs 0.674560 in dofs of which
+		 first search 0.682566 vs 0.671242
+		 band build 3.20124e-06 vs 3.31845e-06
+		 connectivity 3.19981e-06 vs 8.07082e-06
+		 extract dofs 0.318735 vs 0.002305
+Dofs differ on set with measure set([])
+width 2, n_cells 31250 cells, time 1.35632 vs 0.706352 in dofs of which
+		 first search 0.70604 vs 0.684311
+		 band build 0.326512 vs 0.0175308
+		 connectivity 3.58779e-06 vs 7.80991e-06
+		 extract dofs 0.321955 vs 0.00323408
+Dofs differ on set with measure set([])
+width 4, n_cells 31250 cells, time 1.6824 vs 0.711735 in dofs of which
+		 first search 0.691563 vs 0.682249
+		 band build 0.666606 vs 0.0241223
+		 connectivity 4.11448e-06 vs 9.03498e-06
+		 extract dofs 0.322247 vs 0.00389553
+Dofs differ on set with measure set([])
+width 6, n_cells 31250 cells, time 2.03127 vs 0.713165 in dofs of which
+		 first search 0.697546 vs 0.678487
+		 band build 1.00589 vs 0.02835
+		 connectivity 3.55695e-06 vs 8.48728e-06
+		 extract dofs 0.325563 vs 0.00464793
+Dofs differ on set with measure set([])
+width 0, n_cells 80000 cells, time 2.63137 vs 1.776831 in dofs of which
+		 first search 1.80004 vs 1.76884
+		 band build 3.17651e-06 vs 4.07824e-06
+		 connectivity 3.40953e-06 vs 9.11014e-06
+		 extract dofs 0.829041 vs 0.00579426
+Dofs differ on set with measure set([])
+width 2, n_cells 80000 cells, time 3.4636 vs 1.802968 in dofs of which
+		 first search 1.78382 vs 1.74908
+		 band build 0.851181 vs 0.0443698
+		 connectivity 3.31166e-06 vs 9.09467e-06
+		 extract dofs 0.8261 vs 0.00694606
+Dofs differ on set with measure set([])
+width 4, n_cells 80000 cells, time 4.3074 vs 1.809394 in dofs of which
+		 first search 1.7821 vs 1.74294
+		 band build 1.69479 vs 0.0553111
+		 connectivity 3.00969e-06 vs 8.81813e-06
+		 extract dofs 0.828188 vs 0.00822811
+Dofs differ on set with measure set([])
+width 6, n_cells 80000 cells, time 5.18728 vs 1.830106 in dofs of which
+		 first search 1.77981 vs 1.75575
+		 band build 2.57246 vs 0.0617326
+		 connectivity 3.22086e-06 vs 9.66962e-06
+		 extract dofs 0.831918 vs 0.00945282
+
+real	30m10.296s
+user	30m8.053s
+sys	0m0.388s
+
+# index version in the second colum is up 3 times faster, but this is not
+# very relevant since in cpp the difference is marginal
